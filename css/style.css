@@ -12,6 +12,7 @@ body{
     overflow-x: hidden;
     background: linear-gradient(#2b1055,#7597de);
 }
+/* Navitagion */
 header{
     position: absolute;
     top: 0;
@@ -52,6 +53,7 @@ header ul li a.active
     background: #fff;
     color: #2b1055;
 }
+/* Sección de Work */
 section{
     position: relative;
     width: 100%;
@@ -133,7 +135,7 @@ section img#mountains_behind{
     font-size: 1em;
     color: #fff;
 }
-
+/* Scroll */
 ::-webkit-scrollbar {
     width: 10px;
 }
@@ -147,7 +149,7 @@ section img#mountains_behind{
 ::-webkit-scrollbar-thumb:hover {
     background: #5D0CDA;
 }
-/* Water Wave Background */
+/* Efecto de las nubes */
 .section2{
     position: relative;
     width: 100%;
